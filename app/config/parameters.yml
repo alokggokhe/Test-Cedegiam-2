@@ -1,0 +1,21 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: 3306
+    database_name: dandelion_12_last
+    database_user: root
+    database_password: aloha
+    mailer_transport: smtp1
+    mailer_host: 127.0.0.11
+    mailer_user: null1
+    mailer_password: null1
+    locale: en
+    secret: flutzut1
+    cas_protocol: S11
+    cas_server: www.rowa-secure1.com
+    cas_port: 4431
+    cas_path: /sso1/
+    owa_login: 'https://www.rowa-secure.com1/sso/login'
+    owa_forgot: 'https://www.rowa-secure.com1/webservice/OWAWebService?wsdl'
+    relatedAE_email: ds.au1@ucb.com
